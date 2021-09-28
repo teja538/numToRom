@@ -1,0 +1,44 @@
+body
+{
+    max-width: 500px;
+    margin: 0px auto;
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    color: white;
+}
+
+#txt-input 
+{
+    border: none;
+    border-radius: 5px;
+    border: 2px solid 4561ED;
+}
+
+#txt-output
+{
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #4561ED;
+}
+
+#btn-translate
+{
+    font-size: 1.1rem;
+    padding: 10px 15px;
+    background-color:white;
+    color: #4561ED;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #4561ED;
+    margin-left: 28%;
+}
+
+
+
+
+
+
+
+
