@@ -1,4 +1,4 @@
-# numToRom
+# Number To Roman Converter
 Use this application to convert any number into roman number
 
 ## How to use :  
